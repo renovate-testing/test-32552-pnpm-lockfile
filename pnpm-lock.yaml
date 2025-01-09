@@ -9,15 +9,15 @@ importers:
   .:
     dependencies:
       luxon:
-        specifier: 3.4.0
-        version: 3.4.0
+        specifier: ^3
+        version: 3.5.0
 
 packages:
 
-  luxon@3.4.0:
-    resolution: {integrity: sha512-7eDo4Pt7aGhoCheGFIuq4Xa2fJm4ZpmldpGhjTYBNUYNCN6TIEP6v7chwwwt3KRp7YR+rghbfvjyo3V5y9hgBw==}
+  luxon@3.5.0:
+    resolution: {integrity: sha512-rh+Zjr6DNfUYR3bPwJEnuwDdqMbxZW7LOQfUN4B54+Cl+0o5zaU9RJ6bcidfDtC1cWCZXQ+nvX8bf6bAji37QQ==}
     engines: {node: '>=12'}
 
 snapshots:
 
-  luxon@3.4.0: {}
+  luxon@3.5.0: {}
